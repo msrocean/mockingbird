@@ -4,10 +4,10 @@ This repository is created to share the code and the processed data for the *Moc
 
 #### Reference Format
 ```
-@article{imani2019mockingbird,
+@article{rahman2020mockingbird,
       title={{Mockingbird:} Defending Against Deep-Learning-Based Website Fingerprinting Attacks with Adversarial Traces}, 
-      author={Mohsen Imani and Mohammad Saidur Rahman and Nate Mathews and Matthew Wright},
-      year={2019},
+      author={Mohammad Saidur Rahman and Mohsen Imani and Nate Mathews and Matthew Wright},
+      year={2020},
       eprint={1902.06626},
       archivePrefix={arXiv},
       primaryClass={cs.CR}
