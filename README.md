@@ -48,6 +48,11 @@ After downloading, please put the data into the `dataset` directory.
 ### Running Attack with Adversarial Training
 
 
+### Information Leakage Analysis
+Plesae refer to this [repository](https://github.com/notem/reWeFDE) for the code of the information leakage analysis.
+
+![Mockingbird Information Leakage](./repo_images/infoleak.png)
+
 
 ### Questions, Comments, & Feedback
 Please, address any questions, comments, or feedback to the authors of the paper.
