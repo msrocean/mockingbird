@@ -1,0 +1,13 @@
+dill==0.3.2
+future==0.18.2
+futures==3.3.0
+h5py==2.10.0
+Keras==2.2.4
+matplotlib==2.2.5
+np-utils==0.5.12.1
+numpy==1.16.6
+python-dateutil==2.8.1
+scikit-learn==0.20.4
+scipy==1.2.3
+sklearn==0.0
+tensorflow-gpu==1.15.0
