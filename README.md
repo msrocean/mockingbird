@@ -42,6 +42,12 @@ We have shared the processed data using a Google Drive. Please download the proc
 After downloading, please put the data into the `dataset` directory.
 
 
+### Adversarial Trace Generation using *Mockingbird*
+
+
+### Running Attack with Adversarial Training
+
+
 
 ### Questions, Comments, & Feedback
 Please, address any questions, comments, or feedback to the authors of the paper.
