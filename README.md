@@ -1,6 +1,6 @@
 :warning: :warning: :warning: Experimental - **PLEASE BE CAREFUL**. Intended for Reasearch purposes ONLY. :warning: :warning: :warning:
 
-This repository is created to share the code and the processed data for the *Mockingbird* defense ([arXiv version](https://arxiv.org/abs/1902.06626)) which is designed to work against deep-learning-based website fingerprinting attacks. Even though we are not sharing the code before the publication, the pseudocode in the paper provides necessary details to write the code from scratch.
+This repository contains code and data of the paper ***Mockingbird*: Defending Against Deep-Learning-Based Website Fingerprinting Attacks with Adversarial Traces**, published in **IEEE Transactions on Information Forensics and Security (TIFS)**. The preprint version of the paper is available at: [arXiv version](https://arxiv.org/abs/1902.06626). *Mockingbird* is designed to work against deep-learning-based website fingerprinting attacks. Extensive evaluation shows that *Mockingbird* is effective against both white-box and black-box attacks including a more advanced intersection attacks.
 
 #### Reference Format
 ```
@@ -16,4 +16,4 @@ This repository is created to share the code and the processed data for the *Moc
 
 
 ### Acknowledgements
-This material is based upon work supported in part by the **National Science Foundation (NSF)** under Grants No. **1423163**, **1722743** and **1816851**.
+This material is based upon work supported in part by the **National Science Foundation (NSF)** under Grants No. **1423163**, **1722743**, **1816851**, and **1433736**.
