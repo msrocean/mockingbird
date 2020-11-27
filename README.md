@@ -2,21 +2,21 @@
 
 :warning: :warning: :warning: Experimental - **PLEASE BE CAREFUL**. Intended for Reasearch purposes ONLY. :warning: :warning: :warning:
 
-This repository contains code and data of the paper ***Mockingbird*: Defending Against Deep-Learning-Based Website Fingerprinting Attacks with Adversarial Traces**, published in **IEEE Transactions on Information Forensics and Security (TIFS)**. The preprint version of the paper is available at: [arXiv version](https://arxiv.org/abs/1902.06626). *Mockingbird* is designed to work against deep-learning-based website fingerprinting attacks. Extensive evaluation shows that *Mockingbird* is effective against both white-box and black-box attacks including a more advanced intersection attacks.
+This repository contains code and data of the paper ***Mockingbird*: Defending Against Deep-Learning-Based Website Fingerprinting Attacks with Adversarial Traces**, published in **IEEE Transactions on Information Forensics and Security (TIFS)**. Early access version of the paper is available at [IEEE Xlore](https://ieeexplore.ieee.org/document/9265277). You can also read the [arXiv version](https://arxiv.org/abs/1902.06626). *Mockingbird* is designed to work against deep-learning-based website fingerprinting attacks. Extensive evaluation shows that *Mockingbird* is effective against both white-box and black-box attacks including a more advanced intersection attacks.
 
 ![Mockingbird Defense](./repo_images/mockingbird_arc.jpeg)
 
 
 #### Reference Format
 ```
-@article{rahman2020mockingbird,
-      title={{Mockingbird:} Defending Against Deep-Learning-Based Website Fingerprinting Attacks with Adversarial Traces}, 
-      author={Mohammad Saidur Rahman and Mohsen Imani and Nate Mathews and Matthew Wright},
-      year={2020},
-      eprint={1902.06626},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR}
-}
+    @article{rahman2020mockingbird,
+          title={{Mockingbird:Defending Against Deep-Learning-Based Website Fingerprinting Attacks
+                  with Adversarial Traces}}, 
+          author={M. S. {Rahman} and M. {Imani} and N. {Mathews} and M. {Wright}},
+          journal={IEEE Transactions on Information Forensics and Security},      
+          year={2020},
+          doi={10.1109/TIFS.2020.3039691}
+    }
 ```
 
 ### Dependencies & Required Packages
