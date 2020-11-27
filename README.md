@@ -47,7 +47,23 @@ After downloading, please put the data into the `dataset` directory.
 
 
 ### Adversarial Trace Generation using *Mockingbird*
+Arguments:
 
+   - `--data_dir`    : dataset directory.
+   - `--data_type`   : choices= ['full_duplex', 'half_duplex']
+   -  `--detector`    : choices = ['DF', 'AWF']\
+                        detector model. DF as a detector will enable white-box attack\
+                        and AWF as a detector will enable black-box attack.
+   -  `--case`        : choices=[1,2]\
+                        number of cases to run.
+   - `--target_pool` : number of samples in the target pool.
+   - `--num_iteration` : number of iterations to generate the adversarial trace.
+      
+                
+Example of Usage:\
+    ```
+    python mockingbird.py --data_dir dataset --data_type full_duplex --detector DF --case 1 --target_pool 1 --num_iteration 1
+    ```
 
 ### Running Attack with Adversarial Training
 
