@@ -1,3 +1,7 @@
+:warning: :warning: :warning: **INCOMPLETE** :warning: :warning: :warning:
+
+
+
 :warning: :warning: :warning: Experimental - **PLEASE BE CAREFUL**. Intended for Reasearch purposes ONLY. :warning: :warning: :warning:
 
 This repository contains code and data of the paper ***Mockingbird*: Defending Against Deep-Learning-Based Website Fingerprinting Attacks with Adversarial Traces**, published in **IEEE Transactions on Information Forensics and Security (TIFS)**. The preprint version of the paper is available at: [arXiv version](https://arxiv.org/abs/1902.06626). *Mockingbird* is designed to work against deep-learning-based website fingerprinting attacks. Extensive evaluation shows that *Mockingbird* is effective against both white-box and black-box attacks including a more advanced intersection attacks.
