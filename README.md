@@ -14,7 +14,9 @@ This repository contains code and data of the paper ***Mockingbird*: Defending A
                   with Adversarial Traces}}, 
           author={M. S. {Rahman} and M. {Imani} and N. {Mathews} and M. {Wright}},
           journal={IEEE Transactions on Information Forensics and Security},      
-          year={2020},
+          year={2021},
+		  volume={16},
+		  pages={1594-1609},
           doi={10.1109/TIFS.2020.3039691}
     }
 ```
