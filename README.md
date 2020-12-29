@@ -9,7 +9,7 @@ This repository contains code and data of the paper ***Mockingbird*: Defending A
 
 #### Reference Format
 ```
-    @article{rahman2020mockingbird,
+    @article{rahman2021mockingbird,
           title={{Mockingbird:Defending Against Deep-Learning-Based Website Fingerprinting Attacks
                   with Adversarial Traces}}, 
           author={M. S. {Rahman} and M. {Imani} and N. {Mathews} and M. {Wright}},
