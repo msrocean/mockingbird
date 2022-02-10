@@ -303,7 +303,7 @@ for case in cases:
 
                     # Compute the distance between the modified source traces 
                     # and the selected target traces
-                    dist = distance(X_sample_new, X_others_samples)
+                    dist = distance(X_sample_new, X_others_samples,feat)
                     min_dist = np.argmin(dist) # contains the index of min distance
                     max_dist = np.argmax(dist) # contains the index of max distance
 
