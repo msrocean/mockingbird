@@ -42,7 +42,7 @@ Please make sure you have all the dependencies available and installed.
 `pip install -r requirements.txt`
 
 ### Dataset
-We have shared the processed data using a Google Drive. Please download the processed data from this Google Drive [URL](https://drive.google.com/drive/folders/10rdGknCtp6KF75DXRTvS-mle4wj9Q_vD?usp=sharing).
+We have shared the processed data using a Google Drive. Please download the processed data from this [Open Science Framework (OSF) repository URL](https://osf.io/fgrn7/).
 After downloading, please put the data into the `dataset` directory.
 
 
